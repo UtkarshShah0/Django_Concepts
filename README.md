@@ -1,8 +1,8 @@
 # Python & Django Signal
 
-_Questions for Django Trainee at AccuKnox_
+_Django Trainee at AccuKnox Assignment_
 
-I have used `django.setup()` to run the files as scripts without entire django project.
+### _I have used `django.setup()` to run the files as scripts without entire django project setup._
 ---
 
 ## Files
