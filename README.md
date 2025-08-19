@@ -1,2 +1,1 @@
-# Django_Concepts
-AccuKnox
+# Django Trainee Assignment
